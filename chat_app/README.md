@@ -1,6 +1,6 @@
-# chat_app
+# AnmolVidya Connect! Chat Application
 
-A new Flutter project.
+A chat Application 
 
 ## Getting Started
 
